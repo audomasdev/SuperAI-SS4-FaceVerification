@@ -18,6 +18,8 @@ https://dbeaver.io/download/
 
 
 ### Create Table Script
+Create database name : superai_sampledb
+
 <code>CREATE TABLE superai_sampledb.users (
 	id INT auto_increment NOT NULL,
 	username varchar(100) NULL,
